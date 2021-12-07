@@ -1,7 +1,7 @@
 # SendJavaSms
 
 
-<h1>Hello Everyone, 
+Hello Everyone, 
 I will be showing you how to send Sms through your Java Program.
 For this we will be using Fast2Sms Service , we will use their Api for sending Sms'
 
@@ -18,10 +18,16 @@ Step1:
 Step2:
 
 -><b>After signing up , login with your mobile number and password <br/>
--> After logging in  you will come to this page </b>
+-> After logging in  you will come to this page which is your dashboard <br/>
+-> On the top left corner of your screen , you will see a box which says Add-Credit . Above that you will see that you have received some credit 
+  
+ -> There is a navigation bar on the left. Click on DEV-API  
 
-<img width="960" alt="Fast2sms" src="https://user-images.githubusercontent.com/78062510/144973298-b36342b3-75fa-4895-b2ca-627045e2662a.png"><br/>
 
-<b>This is your dashboard.
+<img width="960" alt="Fast2sms" src="https://user-images.githubusercontent.com/78062510/144976427-1901ecc6-365c-4e02-8181-1ef960252fec.png">
+
+
+
+
 
 
