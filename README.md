@@ -17,8 +17,8 @@ Step1:
 
 Step2:
 ->After signing up , login with your mobile number and password 
--> After logging in  you will come to this page 
-<img width="960" alt="Fast2sms" src="https://user-images.githubusercontent.com/78062510/144973298-b36342b3-75fa-4895-b2ca-627045e2662a.png">
+-><b> After logging in  you will come to this page </b>
+<img width="960" alt="Fast2sms" src="https://user-images.githubusercontent.com/78062510/144973298-b36342b3-75fa-4895-b2ca-627045e2662a.png"><br/>
 This is your dashboard.
 
 
