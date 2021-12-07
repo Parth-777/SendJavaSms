@@ -19,7 +19,7 @@ Step2:
 
 -><b>After signing up , login with your mobile number and password <br/>
 -> After logging in  you will come to this page which is your dashboard <br/>
--> On the top left corner of your screen , you will see a box which says Add-Credit . Above that you will see that you have received some credit. Now for each sms you  send ,20paise will be deducted from  the credit you have received. After your credit becomes zero , you will have to pay , if you wish to continue. But we can send enough messages for free for practice.
+-> On the top left corner of your screen , you will see a box which says Add-Credit . Above that you will see that you have received some credit. Now for each sms you  send ,20paise will be deducted from  the credit you have received. After your credit becomes zero , you will have to pay , if you wish to continue. But we can send enough free messages  for practice.
   
  -> There is a navigation bar on the left. Click on DEV-API  <br/>
 
