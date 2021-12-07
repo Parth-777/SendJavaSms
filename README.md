@@ -29,7 +29,8 @@ Step2:
 Step3:
 ->After you click on Dev-Api , you will land here ...
   
-<img width="960" alt="Fast2sms" src="https://user-images.githubusercontent.com/78062510/144977155-9cef8a62-ab11-447e-ba33-40dae09da47b.png">
+<img width="960" alt="Fast2sms" src="https://user-images.githubusercontent.com/78062510/144981755-4b14633c-e07d-4e16-a029-e2569859095d.png">
+
 
  ->Copy your Api-Key , it will be used when we write our java program
 
