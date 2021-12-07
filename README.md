@@ -19,12 +19,19 @@ Step2:
 
 -><b>After signing up , login with your mobile number and password <br/>
 -> After logging in  you will come to this page which is your dashboard <br/>
--> On the top left corner of your screen , you will see a box which says Add-Credit . Above that you will see that you have received some credit 
+-> On the top left corner of your screen , you will see a box which says Add-Credit . Above that you will see that you have received some credit. Now for each sms you  send ,20paise will be deducted from  the credit you have received. After your credit becomes zero , you will have to pay , if you wish to continue. But we can send enough messages for free for practice.
   
  -> There is a navigation bar on the left. Click on DEV-API  
 
 
 <img width="960" alt="Fast2sms" src="https://user-images.githubusercontent.com/78062510/144976427-1901ecc6-365c-4e02-8181-1ef960252fec.png">
+
+Step3:
+->After you click on Dev-Api , you will land here ...
+  
+<img width="960" alt="Fast2sms" src="https://user-images.githubusercontent.com/78062510/144977155-9cef8a62-ab11-447e-ba33-40dae09da47b.png">
+
+ ->Copy your Api-Key , it will be used when we write our java program
 
 
 
