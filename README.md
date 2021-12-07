@@ -44,6 +44,10 @@ Step3:
   <img width="960" alt="Fast2sms" src="https://user-images.githubusercontent.com/78062510/145017603-a1e9ab31-c562-4d19-8fdd-8388e52e38d2.png">
   
   
+  
+  NOW LETS MOVE ON TO WRITING OUR CODE . I HAVE CREATED A FILE CALLED SENDSMS.java.
+  
+  
 
   
   
