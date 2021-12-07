@@ -1,9 +1,7 @@
 # SendJavaSms
 
-<style>
-text:red;
-</style>
-Hello Everyone, 
+
+<h1>Hello Everyone, 
 I will be showing you how to send Sms through your Java Program.
 For this we will be using Fast2Sms Service , we will use their Api for sending Sms'
 
