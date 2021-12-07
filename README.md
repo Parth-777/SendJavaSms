@@ -36,7 +36,7 @@ Step3:
  ->After that , click on CLICK HERE , TO READ API DOCUMENTATION,
   <img width="960" alt="Fast2sms" src="https://user-images.githubusercontent.com/78062510/144987635-a952240b-fe97-4baa-b998-4465745c20d3.png">
   
-  -> We will be firing a get request to this site with our api key.
+  -> We will be firing a get request to this site with our api key.<br/>
   ->After that click on Bulk Sms(Service)Api
 
 
