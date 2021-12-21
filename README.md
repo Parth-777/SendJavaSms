@@ -32,7 +32,7 @@ Step3:
 <img width="960" alt="Fast2sms" src="https://user-images.githubusercontent.com/78062510/144981755-4b14633c-e07d-4e16-a029-e2569859095d.png">
 
 
- ->Copy your Api-Key , it will be used when we write our java program
+ ->Copy your Api-Key , it will be used when we write our java program <br/>
  ->After that , click on CLICK HERE , TO READ API DOCUMENTATION,
   <img width="960" alt="Fast2sms" src="https://user-images.githubusercontent.com/78062510/144987635-a952240b-fe97-4baa-b998-4465745c20d3.png">
   
